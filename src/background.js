@@ -141,6 +141,8 @@ chrome.runtime.onInstalled.addListener(async () => {
         code: `
           document.addEventListener('DOMContentLoaded', () => {
             document.body.style.fontFamily = ${ JSON.stringify(fontString) }
+            // Tauqeer RTL Modification 
+              document.body.style.direction = "rtl";
           })
         `
       , runAt: 'document_start'
