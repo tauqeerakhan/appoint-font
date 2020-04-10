@@ -3,3 +3,4 @@
 [![appoint-font](https://raw.githubusercontent.com/BlackGlory/appoint-font/master/src/assets/images/icon-128.png)](https://chrome.google.com/webstore/detail/lmjdabbpgabigbonekfpjhfgjekpnkge)
 
 The most violent extension about font setting.
+with RTL Support Enabled
